@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: yellow;
+}
+
+#result,#camera{
+    border:2px dotted yellow;
+    width: 350px;
+    height:300px;
+    margin-right: 300;
+   }
+
+#person,#accuracy{
+    color:greenyellow;
+}
